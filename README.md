@@ -1,2 +1,2 @@
 # todolist
-a full fledge working to do list using nodejs and mongodb
+a fully working to-do list app made using nodejs,mongodb and ejs templates
